@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1610187712 source:c:\users\msi\desktop\final\2.bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	"checkWin.h"
+	"checkWin.c"
+	"voidFuncs.h"
+	"voidFuncs.c"
+
+1610185807 c:\users\msi\desktop\final\2.bonus\checkwin.h
+
+1610186796 c:\users\msi\desktop\final\2.bonus\checkwin.c
+	<stdio.h>
+	<stdlib.h>
+
+1610185807 c:\users\msi\desktop\final\2.bonus\voidfuncs.h
+
+1610188344 c:\users\msi\desktop\final\2.bonus\voidfuncs.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1610030452 source:c:\users\msi\desktop\en yeni\proje 2.5\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"voidFuncs.h"
+	"voidFuncs.c"
+	"checkWin.c"
+	"checkWin.h"
+
+1609955121 c:\users\msi\desktop\en yeni\proje 2.5\voidfuncs.h
+
+1609959131 c:\users\msi\desktop\en yeni\proje 2.5\voidfuncs.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1609959131 c:\users\msi\desktop\en yeni\proje 2.5\checkwin.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1609953468 c:\users\msi\desktop\en yeni\proje 2.5\checkwin.h
+
+1610189846 source:c:\users\msi\desktop\final\version 2\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"voidFuncs.h"
+	"voidFuncs.c"
+	"checkWin.c"
+	"checkWin.h"
+
+1609955121 c:\users\msi\desktop\final\version 2\voidfuncs.h
+
+1610191174 c:\users\msi\desktop\final\version 2\voidfuncs.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1609959131 c:\users\msi\desktop\final\version 2\checkwin.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1609953468 c:\users\msi\desktop\final\version 2\checkwin.h
+

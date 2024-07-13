@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1609154767 source:c:\users\msi\desktop\proje 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"header_1.h"
+	"header_1.c"
+	"board_header.h"
+	"board_header.c"
+
+1609154373 c:\users\msi\desktop\proje 1\header_1.h
+
+1609154217 c:\users\msi\desktop\proje 1\header_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1609154710 c:\users\msi\desktop\proje 1\board_header.h
+
+1609154867 c:\users\msi\desktop\proje 1\board_header.c
+	<stdio.h>
+	<stdlib.h>
+
+1610033445 source:c:\users\msi\desktop\en yeni\proje 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"header_1.h"
+	"header_1.c"
+	"board_header.h"
+	"board_header.c"
+
+1609154374 c:\users\msi\desktop\en yeni\proje 1\header_1.h
+
+1609866844 c:\users\msi\desktop\en yeni\proje 1\header_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1609154712 c:\users\msi\desktop\en yeni\proje 1\board_header.h
+
+1609866850 c:\users\msi\desktop\en yeni\proje 1\board_header.c
+	<stdio.h>
+	<stdlib.h>
+
